@@ -1,1 +1,3 @@
-## Simple Bookbot that count how many words inside it and how many character has inside the document.
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
